@@ -27,15 +27,15 @@
 
 ### Work Experience  
 SDE Intern (5 Months) at a Canada-based startup — Built React UI components, designed NestJS microservices, integrated REST APIs, implemented PostgreSQL & JWT authentication, worked in Agile sprints delivering features end-to-end.  
-:contentReference[oaicite:1]{index=1}
+
 
 ### Skills  
 JavaScript, TypeScript, Node.js, NestJS, Express.js, React.js, Next.js, REST APIs, Redis, PostgreSQL, MySQL, MongoDB, JWT/OAuth, Git, GitHub, CI/CD, Postman, Swagger, Vercel, Netlify.  
-:contentReference[oaicite:2]{index=2}
+
 
 ### Achievements  
 LeetCode Rating 1835 (Top 6.63%), 400+ DSA problems solved, Global Rank 1380/27K+ (Top 5%), Reliance Foundation Scholarship, MLH Hackathon contributor, National Science Congress representative.  
-:contentReference[oaicite:3]{index=3}
+
 
 ---
 ###  Connect With Me
